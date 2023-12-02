@@ -1,0 +1,123 @@
+*{
+    margin:0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: black;
+}
+
+
+.left-section{
+    height: 100vh;
+    width: 244px;
+    border-right: 1px solid rgb(43, 43, 43);
+    position: fixed;
+}
+
+.left-main ul li{
+    list-style: none;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+}
+.left-main{
+    margin-top: px;
+}
+.options{
+    margin: 26.5px 25px;
+    display: grid;
+    grid-template-columns: 40px 1fr;
+    align-items: center;
+}
+
+
+
+.top{
+    width: 660px;
+    margin-left: 295px;
+    display: flex;
+    flex: row;
+}
+.name{
+    color: white;
+    font-size: 11px;
+    text-align: center ;
+}
+.name2{
+    font-size: 13px;
+    font-weight: bold ;
+    text-align: left;
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+}
+.upper{
+    display: grid;
+    grid-template-columns: 40px 1fr 10px;
+    margin-bottom: 10px;
+}
+.upper1{
+    display: grid;
+    cursor: pointer;
+
+}
+.upper2{
+    display: grid;
+    cursor: pointer;
+}
+.upper3{
+    display: flex;
+    align-items: center;
+    margin-left: -10px;
+}
+
+.main-section{
+    width: 850px;
+    display: flex;
+    flex-direction: column;
+}
+.main-section-grid{
+    width: 471px;
+    margin-top: 50px;
+    margin-left: 370px;
+    border-bottom: 1px solid grey;
+}
+.likes{
+    color: white;
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+.comments{
+    color: grey;
+    font-size: 15px;
+    margin-bottom: 15px;
+}
+.addcomment{
+    margin-bottom: 20px;
+}
+.input{
+    background-color: black;
+    border: none;
+}
+
+.right-section{
+    position: absolute;
+    right: 35px;
+    top: 58px;
+}
+.right-top{
+    display: grid;
+    grid-template-columns: 60px 195px 50px;
+    align-items: center;
+}
+.Suggested{
+    margin-top: 20px;
+
+    display: grid;
+    grid-template-columns: 248px 70px ;
+}
+.right-bottom{
+    margin-top: 15px;
+}

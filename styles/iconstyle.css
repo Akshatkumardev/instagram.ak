@@ -1,0 +1,67 @@
+.insta-logo-text{
+    margin: 40px 25px;
+}
+.insta-logo{
+    height: 28px;
+    width: 101px;
+}
+.hameburger{
+    margin: 35px 30px;
+}
+.options-img{
+    height: 30px;
+    margin-left: -4px;
+}
+
+
+.home{
+    height: 29px;
+}
+.search{
+    height: 29px;
+}
+.message{
+    margin-left: -14px;
+    margin-bottom: -1px;
+    height: 34px;
+}
+.noti{
+    margin-left: -11px;
+    margin-bottom: -2px;
+}
+.hamburger-img{
+    margin-left: -5px;
+}
+.create{
+    height: 28px;
+}
+.profile{
+    height: 26px;
+}
+.story{
+    margin-top: 50px;
+    height: 63px;
+    margin-right: 9px;
+}
+
+
+.feedcontent-img{
+    height: 500px;
+    width: 470px;
+    border-radius: 3px;
+}
+.feedcontent-profile{
+    height: 40px;
+    cursor: pointer;
+}
+.liked{
+    display: none;
+}
+#liked{
+    margin-left: -115px;
+    margin-bottom: 7px;
+}
+
+.rightimg{
+    height: 45.5px;   
+}
